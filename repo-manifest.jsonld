@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vispy/gsp/commit/2e345caf9ddcce199bb5899bf7d8fa7a851ad0f7",
       "git:hexsha": "2e345caf9ddcce199bb5899bf7d8fa7a851ad0f7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
